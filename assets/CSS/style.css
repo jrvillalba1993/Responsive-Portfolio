@@ -219,9 +219,13 @@ input[type=submit] {
 /* Media Queries */
 
 /* 640 px screen */
+@media screen and (max-width: 640px) {
+   
 
 
 /* 768 px screen */
+@media screen and (max-width: 768px) {
 
 /* 980 px screen */
+@media screen and (max-width: 980px) {
 
